@@ -1,0 +1,20 @@
+Single Parent Household
+
+Makes up a small portion of the household (how much?)
+
+As a group takes the most advantage of discounts. page 12
+
+Sales of produce is disappointing low. page 13
+
+Large majority of the demographic live in households with yearly income less than $50k. page 15
+
+As a specific grocery item, produce is the segement that sees more of the marketing campaign. page 17
+
+13 and 18 are the most ambitious marketing campaigns, involving 20 or more departments. page 18
+
+produce also happens to be the department where we see large amount of sales for a small discount. page 20
+
+Different commodities yield different result for same amount of discount. eg. beef, frozen and diapers and disposables need little discount to produce large amount of sale. page 22
+
+
+Problem Statement: How does sales value change with other factors within single parent household demographic? Build a model that can estimate sales from given set of parameters. 
